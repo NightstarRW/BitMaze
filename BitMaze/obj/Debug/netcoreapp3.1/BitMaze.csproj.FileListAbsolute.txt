@@ -1,0 +1,13 @@
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.exe
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.deps.json
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.runtimeconfig.json
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.runtimeconfig.dev.json
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.dll
+D:\Data\BitMaze\BitMaze\bin\Debug\netcoreapp3.1\BitMaze.pdb
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.csprojAssemblyReference.cache
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.AssemblyInfoInputs.cache
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.AssemblyInfo.cs
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.csproj.CoreCompileInputs.cache
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.dll
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.pdb
+D:\Data\BitMaze\BitMaze\obj\Debug\netcoreapp3.1\BitMaze.genruntimeconfig.cache
